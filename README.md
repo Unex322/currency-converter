@@ -9,7 +9,6 @@ $ python -m venv venv
 $ venv\Scripts\activate
 $ pip install django requests
 $ git clone https://github.com/Unex322/currency-converter.git
-$ cd django-exchange-app/
 $ cd app/
 $ ./manage.py migrate
 $ ./manage.py runserver
