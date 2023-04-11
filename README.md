@@ -3,6 +3,7 @@
 
 ### Use
 ```
+$ pip install django == 4.1.7, python == 3.11
 $ mkdir currency-converter
 $ cd currency-converter
 $ python -m venv venv
